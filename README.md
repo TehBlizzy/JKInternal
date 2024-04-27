@@ -10,7 +10,8 @@ To compile, you will need to download and put the following dependencies inside 
 
 https://github.com/ocornut/imgui
 
-### minhook in "/external/winhook/" (I only noticed I gave the folder the wrong name as I was typing this readme...)
+### minhook in "/external/winhook/" 
+*(I only noticed I gave the folder the wrong name as I was typing this readme...)*
 
 https://github.com/TsudaKageyu/minhook
 
