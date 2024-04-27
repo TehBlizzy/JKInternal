@@ -1,6 +1,6 @@
 Source for an internal DLL cheat for Jedi Academy. Project file is for Visual Studio 2022.
 
-Works with latest OJK-based client and the latest MB2 client. Partially works or crashes if you join some JA+ or other modded servers.
+Works with latest OJK-based client and the latest MB2 client. Partially works or crashes if you join some JA+ or other modded servers. Only for OpenGL renderer.
 
 Inject the DLL while at the main menu. As of the latest MB2 build, changing servers or maps frequently can cause the game to crash with a ghoul2 memory error. Not sure what the cause is yet! :(
 
