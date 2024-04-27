@@ -7,15 +7,19 @@ Inject the DLL while at the main menu. As of the latest MB2 build, changing serv
 To compile, you will need to download and put the following dependencies inside the "/external/" folder:
 
 ---ImGUI (at least v1.89.6) in "/external/imgui/"
+
 https://github.com/ocornut/imgui
 
 ---minhook in "/external/winhook/" (I only noticed I gave the folder the wrong name as I was typing this readme...)
+
 https://github.com/TsudaKageyu/minhook
 
 ---stb_image (At least version 2.28) in "/external/stb/"
+
 https://github.com/nothings/stb/blob/master/stb_image.h
 
 ---nlohmann's JSON for Modern C++ in "/external/nlohmann/" (just the json.hpp)
+
 https://github.com/nlohmann/json
 
 Features:
